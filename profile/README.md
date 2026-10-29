@@ -1,4 +1,4 @@
-# spill
+# <img src="https://spill.rs/assets/logos/spill-logo-on-light.svg" alt="" width="40" height="40" align="absmiddle"> spill
 
 A modern torrent client implemented in Rust.
 
